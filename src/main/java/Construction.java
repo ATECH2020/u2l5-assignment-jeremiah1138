@@ -5,7 +5,6 @@ public class Construction
     double windows; // price per square inch of window
     double taxRate; 
    
-    
     public Construction(double lumberCost, double windowCost, double taxes)
     {
         lumber = lumberCost;
